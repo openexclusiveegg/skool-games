@@ -15,4 +15,5 @@ Adding a Game
 5. Create a fork of this repository
 6. Upload your folder to github (drag and drop the folder on the upload file page)
 7. Go into your repository settings then click on "pages" and select "deploy from branch"
-8. Make sure the main branch and the root folder are selected
+8. Make sure the "main branch" and the "root folder" are selected
+9. After 10 minutes reload the "pages" page and open the link that has appeared at the top of the page.
