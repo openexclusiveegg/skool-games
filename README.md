@@ -1,13 +1,13 @@
 Public Game Host for Skool.world, feel free to contribute.
 
 
-How to Add a game
+# How to Add a game
 
-Prerequisites:
+### Prerequisites:
 - Learn how to source games from other websites: https://3kh0.github.io/blog/gamerip
 - Have experience in coding and using github
 
-Adding a Game
+### Adding a Game
 
 2. On your computer create a folder, the folder should be the full name of the game with one "-" (Dash) between each word (no letters capitalized).
 3. In the folder upload the games "index.html" file to the folder (if the games html file isnt named index rename it).
@@ -17,7 +17,7 @@ Adding a Game
 7. Go into your repository settings then click on "pages" and select "deploy from branch"
 8. Make sure the "main branch" and the "root folder" are selected
 9. After 10 minutes reload the "pages" page and open the link that has appeared at the top of the page.
-10. Navigate to the file you added by editing the address of your pages deployment, EX: https://yourgithubname/Skool_Games/example-game/index.html
+10. Navigate to the file you added by editing the address of your pages deployment, EX: `https://github.com/yourgithubname/Skool_Games/example-game/index.html`
 11. Test it and remember these criteria:
 - Does it work?
 - Does it contain ads?
