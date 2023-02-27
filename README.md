@@ -23,4 +23,5 @@ Adding a Game
 - Does it contain ads?
 - Is it playable?
 12. If your game meets all of these criteria congratulations you are ready to submit it for review
-13. Navigate to the main page of your fork and click "contribute", then "open a pull request"
+13. Navigate to the main page of your fork and click "contribute", then "open a pull request" then "create pull request"
+14. Your game will be reviewed then hopefully added
