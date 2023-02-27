@@ -17,3 +17,10 @@ Adding a Game
 7. Go into your repository settings then click on "pages" and select "deploy from branch"
 8. Make sure the "main branch" and the "root folder" are selected
 9. After 10 minutes reload the "pages" page and open the link that has appeared at the top of the page.
+10. Navigate to the file you added by editing the address of your pages deployment, EX: https://yourgithubname/Skool_Games/example-game/index.html
+11. Test it and remember these criteria:
+- Does it work?
+- Does it contain ads?
+- Is it playable?
+12. If your game meets all of these criteria congratulations you are ready to submit it for review
+13. Navigate to the main page of your fork and click 
